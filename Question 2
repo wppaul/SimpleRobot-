@@ -1,0 +1,20 @@
+Question 2: Development Methodology
+Whether from experience or study, what is your preferred approach to building Software. Is it Agile? Waterfall? Kanban? Extreme Programming? TDD?
+
+Each approach has it own advantages and disadvantages. More specifically, Waterfall is a traditional way to develop software as a linear sequential flow, it is easy to understand and plan ahead, but when any stage is finished, it is extremely hard and costly to go back, so projects do not require many requirements changing may use this method.
+
+Agile such as SCUM becomes more and more popular nowadays, it is more flexible and allow changes in a easy way.It refers to develop software in incremental, rapid cycles. This results in small incremental releases with each release building on previous functionality. So it is easy to adapt the changing requirement from clients or stakeholders, however, this method is not perfect to deal with large project.
+
+Extreme Programming is a type of Agile software development which refers to frequent releases a updating version of software in short development cycles, this greatly help to meet customer changing requirements.
+
+Kanban is another way to practicing agile software development. The kanban team is only focused on the work that's actively in progress, however, kanban team may face too much multitasking, and reduce the efficiency.
+
+Test-driven development refers to a development technique where you must first write a test that fails before you write new functional code, this ensure the code cleanliness and correctness.
+
+I will choose different method depends on the project. As my study projects are relatively small, Test-driven development and Agile will be my preference.
+
+
+Write a short blurb about what process(es) you enjoy building software and why you enjoy them.
+
+First, software design is an interesting step, as i can design software in different ways, and learn from the designing process, and clear the barriers of the software developing at the very begin process.
+Then, debugging process is a really challenging step, i am really enjoyed in it, as every time find a bug and solve it, i have more confident and feel success while developing the software.
